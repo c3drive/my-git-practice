@@ -1,2 +1,2 @@
-# sample-repo
+# my-gitpractice
 Git練習用
