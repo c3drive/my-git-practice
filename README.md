@@ -1,4 +1,3 @@
 # my-git-practice
 Git練習用。テスト更新。
-`new-feature`ブランチで変更
-'git-hub'で更新
+GitHubで編集
