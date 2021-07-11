@@ -1,3 +1,3 @@
 # my-git-practice
 Git練習用。テスト更新。
-また間違えた
+'conflict-remote'で更新
